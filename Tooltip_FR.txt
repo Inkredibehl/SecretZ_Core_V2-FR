@@ -1,0 +1,21 @@
+Tooltip_FR = {
+
+	Tooltip_SZ_LabTest1 = "Composé Expérimental V-SZ7748",
+	Tooltip_SZ_LabTest2 = "Composé Expérimental V-SZ7738",
+	Tooltip_SZ_LabTest3 = "Composé Expérimental V-SZ2055",
+	Tooltip_SZ_LabTest4 = "Composé Expérimental V-SZ2035",
+	Tooltip_SZ_LabTest5 = "Composé Expérimental V-SZ4892",
+	Tooltip_SZ_LabTest6 = "Composé Expérimental V-SZ4897",
+	Tooltip_SZ_LabTest7 = "Composé Expérimental V-SZ8376",
+	Tooltip_SZ_LabTest8 = "Composé Expérimental V-SZ8442",
+	Tooltip_SZ_LabTest9 = "Composé Expérimental V-SZ3788",
+	Tooltip_SZ_LabTest10 = "Composé Expérimental V-SZ3563",
+	Tooltip_SZ_LabTest11 = "Composé Expérimental V-SZ3564",
+	Tooltip_SZ_LabTest12 = "Composé Expérimental V-SZ3711",
+	Tooltip_SZ_LabTest13 = "Composé Expérimental V-SZ4123",
+	Tooltip_SZ_LabTest14 = "Composé Expérimental V-SZ3649",
+	Tooltip_SZ_LabTest15 = "Composé Expérimental V-SZ9000",
+	Tooltip_SZ_LabTest16 = "Composé Expérimental V-SZ2034",
+	Tooltip_SZ_LabTest17 = "Composé Expérimental V-SZ7741",
+
+}

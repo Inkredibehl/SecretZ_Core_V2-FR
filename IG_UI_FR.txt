@@ -1,0 +1,18 @@
+IG_UI_FR = {
+	IGUI_PlayerText_AlarmAlreadyPlaying = "Alarme activée",
+	IGUI_PlayerText_UnlockingSystems = "Dévérouillage des systèmes",
+	IGUI_PlayerText_NeedRedKey = "J'ai besoin d'une Carte Magnétique Rouge!",
+	IGUI_PlayerText_NeedGreenKey = "J'ai besoin d'une Carte Magnétique Verte!",
+	IGUI_PlayerText_NeedYellowKey = "J'ai besoin d'une Carte Magnétique Jaune!",
+	IGUI_PlayerText_NeedBlueKey = "J'ai besoin d'une Carte Magnétique Bleue!",
+	IGUI_PlayerText_NeedBlackKey = "J'ai besoin d'une Carte Magnétique Noire!",
+	IGUI_PlayerText_NeedL0Key = "J'ai besoin de la Carte Magnétique du Système de Sécurité",
+	IGUI_PlayerText_NoPower = "Pas d'éléctricité",
+	IGUI_PlayerText_DeleteDoors = "DeleteDoors",
+	IGUI_PlayerText_DoREPOK = "DoREPOK",
+	IGUI_PlayerText_DoREPOK2 = "DoREPOK2",
+	IGUI_PlayerText_DoReplaceOK = "DoReplaceOK",
+	IGUI_PlayerText_CheckOK = "Check OK",
+	IGUI_PlayerText_Unlocked = "Dévérouillage d'urgence réussie",
+	IGUI_PlayerText_SystemRestarted = "Le systéme a été redémarré",
+}

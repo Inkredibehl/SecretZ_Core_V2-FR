@@ -1,0 +1,5 @@
+ContextMenu_FR = {
+	ContextMenu_PlayAlarm = "Alarme",
+	ContextMenu_UseKeycard = "Utiliser Carte Magnétique de Sécurité",
+	ContextMenu_Use_injector = "Utiliser Injecteur",
+}
